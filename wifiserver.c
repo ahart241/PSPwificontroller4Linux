@@ -1,3 +1,7 @@
+/*
+ * Author: Andrew Hart <ahart241@gmail.com>
+ */
+ 
 #include <stdio.h>
 #include <sys/socket.h>
 #include <arpa/inet.h>
