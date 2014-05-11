@@ -3,7 +3,7 @@ PSPwificontroller4Linux
 
 PSP wificontroller server for Linux
 
-Author: Andrew Hart <ahart241@github.com>
+Author: Andrew Hart <ahart241@gmail.com>
 
 # Installation Instructions
 
